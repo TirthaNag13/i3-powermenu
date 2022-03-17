@@ -1,2 +1,2 @@
 # i3-powermenu
-i3 powermenu config 
+add the lines in your i3config
